@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ajeet9918&label=Profile%20views&color=0e75b6&style=flat" alt="Ajeet9918" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Ajeet+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 
 ---
 
