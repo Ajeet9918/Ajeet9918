@@ -14,10 +14,6 @@
   <img src="https://ghchart.rshah.org/Ajeet9918" alt="Ajeet's GitHub chart" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajeet9918/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 
 ---
