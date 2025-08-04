@@ -7,6 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Ajeet+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajeet9918&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Ajeet9918" alt="Ajeet's GitHub chart" />
+</p>
 
 
 ---
