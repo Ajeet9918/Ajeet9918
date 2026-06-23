@@ -1,142 +1,212 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajeet%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Django%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ajeet+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+%7C+Django+%7C+REST+APIs;Building+real-world+apps+that+matter;Let's+learn+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ajeet%20Kumar&fontSize=70&color=gradient&customColorList=2,3,12,20&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Django%20%E2%80%A2%20Building%20things%20that%20matter&descSize=15&descAlignY=72" width="100%" />
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Ajeet9918&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Ajeet9918)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetgupta1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajeetkumargupta.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrajeetkumargupta8840@gmail.com)
+<a href="https://www.linkedin.com/in/ajeetgupta1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://ajeetkumargupta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:mrajeetkumargupta8840@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Ajeet9918&style=flat-square&color=6366f1&label=profile+views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=500&lines=const+dev+%3D+new+FullStackDeveloper();+%F0%9F%9A%80;Building+MERN+%7C+Django+%7C+REST+APIs;Shipping+products+%E2%80%94+not+just+code;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-```javascript
-const ajeet = {
-  name: "Ajeet Kumar",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  stack: ["React", "Node.js", "Express", "MongoDB", "Django", "MySQL"],
-  currentlyBuilding: ["AI-Powered Learning Platform", "Job Portal"],
-  portfolio: "https://ajeetkumargupta.vercel.app",
-  funFact: "I debug at midnight and call it productivity 🌙",
-  motto: "Learn. Build. Ship. Repeat. 🚀"
+### `> whoami`
+
+```ts
+const Ajeet = {
+  role     : "Full Stack Developer",
+  location : "India 🇮🇳",
+  stack    : ["React", "Node.js", "Express",
+              "MongoDB", "Django", "MySQL"],
+  building : ["AI Learning Platform 🤖",
+              "Job Portal 💼"],
+  contact  : "mrajeetkumargupta8840@gmail.com",
+  site     : "ajeetkumargupta.vercel.app",
+  motto    : "Shipped > Perfect ✦"
 };
 ```
 
-- 🔭 Currently working on an **AI-Powered Learning Platform** & **Job Portal**
-- 🌱 Always leveling up — exploring **AI integrations** in full-stack apps
-- 💬 Ask me anything about **React, Node.js, Express, MongoDB, Django**
-- ⚡ I love building UIs with smooth UX that actually solves problems
-- 📫 Reach me at **mrajeetkumargupta8840@gmail.com**
+- 🔭 &nbsp;Currently building an **AI-Powered Learning Platform**
+- 🌱 &nbsp;Exploring **AI integrations** in full-stack applications
+- 💡 &nbsp;I enjoy turning complex problems into clean, simple UIs
+- 🤝 &nbsp;Open to collaborations and freelance projects
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+### `> tech.stack`
+
+<table>
+<tr>
+  <td valign="top" width="33%">
+
+**Frontend**
+```
+React.js        ████████████ ✦
+JavaScript      ████████████ ✦
+HTML / CSS      ████████████ ✦
+TailwindCSS     ██████████░░
+```
+
+  </td>
+  <td valign="top" width="33%">
+
+**Backend**
+```
+Node.js         ████████████ ✦
+Express.js      ████████████ ✦
+Django          █████████░░░
+REST APIs       ████████████ ✦
+```
+
+  </td>
+  <td valign="top" width="33%">
+
+**Database & Tools**
+```
+MongoDB         ████████████ ✦
+MySQL           █████████░░░
+Git / GitHub    ████████████ ✦
+Postman         ████████░░░░
+```
+
+  </td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### `> projects.featured`
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🏗️ Project | 📝 Description | ⚙️ Tech Stack | 🔗 Link |
-|:---:|:---:|:---:|:---:|
-| **Job Portal** | MERN-based platform for job seekers & recruiters with real-time listings | React · Node · MongoDB | [View →](https://github.com/Ajeet9918/job-portal1) |
-| **Movie Streaming** | Full-featured movie streaming platform with interactive UI | React · Express · Node | [View →](https://github.com/Ajeet9918/movie-stream) |
-| **E-Commerce App** | Full-stack marketplace with admin dashboard & buyer panel | MERN Stack | [View →](https://github.com/Ajeet9918/e-commerce) |
-| **AI Learning Platform** | 🔨 Work in progress — AI-powered personalized learning experience | MERN · AI APIs | Coming Soon |
+**[💼 Job Portal](https://github.com/Ajeet9918/job-portal1)**
 
+> A full-featured hiring platform connecting job seekers & recruiters. Built with real-world UX in mind — job listings, applicant tracking, and role-based dashboards.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[🎬 Movie Streaming](https://github.com/Ajeet9918/movie-stream)**
+
+> A responsive movie streaming platform with a rich interactive UI. Browse, search, and stream — built for speed and smooth experience.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛍️ E-Commerce App](https://github.com/Ajeet9918/e-commerce)**
+
+> Full-stack marketplace with separate admin & buyer dashboards, product management, cart, and order flow — production-grade structure.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 AI Learning Platform](https://github.com/Ajeet9918)** &nbsp;`In Progress`
+
+> AI-powered personalized learning experience — intelligent content curation, progress tracking, and adaptive quizzes.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20APIs-6366F1?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### `> github.stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajeet9918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeet9918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajeet9918&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeet9918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajeet9918&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajeet9918&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=888" width="55%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeet9918&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeet9918&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f120" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### `> github.trophies`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ajeet9918&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ajeet9918&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## 💡 Dev Quote of the Day
-
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+```
+╔══════════════════════════════════════════════════════╗
+║   Open to work • Freelance • Collabs • Internships   ║
+╚══════════════════════════════════════════════════════╝
+```
 
-</div>
+**Let's build something great together.**
 
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetgupta1/)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajeetkumargupta.vercel.app)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrajeetkumargupta8840@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetgupta1/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ajeetkumargupta.vercel.app)
+&nbsp;
+[![Mail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrajeetkumargupta8840@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=100&section=footer" width="100%"/>
 
 </div>
