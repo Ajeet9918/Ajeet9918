@@ -27,8 +27,8 @@ const Ajeet = {
   location : "India 🇮🇳",
   stack    : ["React", "Node.js", "Express",
               "MongoDB", "Django", "MySQL"],
-  building : ["AI Learning Platform 🤖",
-              "Job Portal 💼"],
+  building : ["movie streaming website(demo)",
+              "Job Portal 💼","Real-time chat application with socket.io"],
   contact  : "mrajeetkumargupta8840@gmail.com",
   site     : "ajeetkumargupta.vercel.app",
   motto    : "Shipped > Perfect ✦"
@@ -145,14 +145,12 @@ Postman         ████████░░░░
 </td>
 <td width="50%" valign="top">
 
-**[🤖 AI Learning Platform](https://github.com/Ajeet9918)** &nbsp;`In Progress`
+**[Real time chat Application with socket.io](https://github.com/Ajeet9918/chatapp)** &nbsp;`In Progress`
 
-> AI-powered personalized learning experience — intelligent content curation, progress tracking, and adaptive quizzes.
+> A website where you can chat and make call and video calls.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20APIs-6366F1?style=flat-square&logo=openai&logoColor=white)
-
 </td>
 </tr>
 </table>
