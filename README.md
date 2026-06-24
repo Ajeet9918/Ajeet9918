@@ -145,7 +145,7 @@ Postman         ████████░░░░
 </td>
 <td width="50%" valign="top">
 
-**[Real time chat Application with socket.io](https://github.com/Ajeet9918/chatapp)** &nbsp;`In Progress`
+**[Real time chat Application with socket.io](https://github.com/Ajeet9918/chatapp)** &nbsp;
 
 > A website where you can chat and make call and video calls.
 
