@@ -1,5 +1,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Ajeet Kumar Gupta">
+  <img src="light.svg" alt="Ajeet Kumar Gupta">
 </picture>
